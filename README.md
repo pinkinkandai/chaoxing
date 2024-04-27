@@ -1,9 +1,9 @@
 
 加了个界面
-加了一点功能，可以将账号保存在本地，选择账号登录，/n
-可以看到所有的课程，选择你想刷的课程
 
-原开发者地址：https://github.com/Samueli924/chaoxing
+加了一点功能，可以将账号保存在本地，选择账号登录，
+
+可以看到所有的课程，选择你想刷的课程
 
 <img width="669" alt="屏幕截图 2024-04-27 010005" src="https://github.com/pinkinkandai/chaoxing/assets/123379680/407394f7-b9ce-448f-a439-39b6b3da95a0">
 
@@ -16,7 +16,11 @@
 
 ## :books: 使用方法
 
+原开发者地址：https://github.com/Samueli924/chaoxing
+
+
 ### 源码运行
+
 1. `git clone --depth=1 https://github.com/Samueli924/chaoxing` 项目至本地
 2. `cd chaoxing`
 3. `pip install -r requirements.txt`
