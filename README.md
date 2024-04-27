@@ -1,19 +1,9 @@
-# :computer: 超星学习通自动化完成任务点(命令行版)
 
-<p align="center">
-    <a href="https://github.com/Samueli924/chaoxing" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/Samueli924/chaoxing" alt="Github Stars" />
-    </a>
-    <a href="https://github.com/Samueli924/chaoxing" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/Samueli924/chaoxing" alt="Github Forks" />
-    </a>
-    <a href="https://github.com/Samueli924/chaoxing" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
-        <img src="https://img.shields.io/github/languages/code-size/Samueli924/chaoxing" alt="Code-size" />
-    </a>
-    <a href="https://github.com/Samueli924/chaoxing" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
-        <img src="https://img.shields.io/github/v/release/Samueli924/chaoxing?display_name=tag&sort=semver" alt="version" />
-    </a>
-</p>
+            加了个界面
+            加了一点功能，可以将账号保存在本地，选择账号登录，
+            可以看到所有的课程，选择你想刷的课程
+            <img width="669" alt="屏幕截图 2024-04-27 010005" src="https://github.com/pinkinkandai/chaoxing/assets/123379680/407394f7-b9ce-448f-a439-39b6b3da95a0">
+
 :muscle: 本项目的最终目的是通过开源消灭所谓的付费刷课平台，希望有能力的朋友都可以为这个项目提交代码，支持本项目的良性发展    
 
 :star: 觉得有帮助的朋友可以给个Star
